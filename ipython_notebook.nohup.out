@@ -1,0 +1,5 @@
+2013-07-26 16:25:57.446 [NotebookApp] Created profile dir: u'/root/.ipython/profile_default'
+2013-07-26 16:25:57.460 [NotebookApp] Using MathJax from CDN: http://cdn.mathjax.org/mathjax/latest/MathJax.js
+2013-07-26 16:25:57.485 [NotebookApp] Serving notebooks from local directory: /home/vagrant/share/ipynb
+2013-07-26 16:25:57.485 [NotebookApp] The IPython Notebook is running at: http://0.0.0.0:8888/
+2013-07-26 16:25:57.485 [NotebookApp] Use Control-C to stop this server and shut down all kernels.
